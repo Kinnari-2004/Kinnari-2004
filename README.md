@@ -30,15 +30,13 @@ Other: OOP, DBMS, OS, Git version control
 
 🧠 Currently Learning
 
-System Design & Scalable Architecture
+Data Structures and Algorithms
 
 Cloud Computing & DevOps Tools
 
-Advanced DSA (Leetcode/Codeforces)
-
 🤝 Open To
 
-Internships | Remote Freelance Roles
+Internships | Remote Freelance Roles | Full time opportunities
 
 Open-source collaboration
 
