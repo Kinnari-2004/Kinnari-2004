@@ -12,20 +12,36 @@ Languages: Java, Python
 
 Web Development: HTML, CSS, React.js, Node.js, Express.js
 
-Databases: MongoDB, MySQL
+Databases: MongoDB, SQL
 
 Tools & Platforms: Git, GitHub, Postman, VS Code
 
 Cloud & DevOps: AWS (basic), Netlify, Vercel
 
-Other: OOP, DBMS, OS, Git version control
+Other: OOP, DBMS, OS
 
 
 📁 Projects
 
-🛒 E-Commerce Platform – Full-stack second-hand goods selling platform with cart, checkout, and Razorpay integration
+Shree Kitchen
+•Full-stack MERN food delivery platform with user registration, order tracking, and Stripe payment integration.
+Implemented AI-powered recommendations and chatbot, along with a robust admin panel for managing orders,
+users, and menu efficiently.
 
-📄 DocXplore – Intelligent document retrieval & summarization using RAG, ChromaDB, and LangChain
+SwapNest : Second Hand Products Seller
+•Developed a full-stack MERN application for buying and selling second-hand products, featuring React.js for a
+responsive UI, Node.js & Express.js for backend logic, and MongoDB for efficient data management with full
+CRUD operations. Integrated RESTful APIs ensuring smooth product browsing.
+
+Toto : Auto booking website
+•Built a full-stack ride-sharing platform using HTML & CSS (frontend) and Javascript(backend). Integrated Google
+Maps API for location input and fare calculation with transparent pricing. Used PostgreSQL for user details and
+feedback storage.
+
+DocXplore - Intelligent document retrieval and summarization
+•Developed a multimodal RAG (Retrieval-Augmented Generation) system for intelligent querying and
+summarization of text + image PDFs using ChromaDB, PyMuPDF, Tesseract OCR, Sentence-Transformers. Built
+scalable backend pipelines for vector embedding, storage, and query retrieval.
 
 
 🧠 Currently Learning
