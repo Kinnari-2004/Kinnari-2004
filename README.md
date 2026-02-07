@@ -1,6 +1,6 @@
 👨‍💻 Kinnari Chetan Vaghela
 
-Aspiring Software Developer | Final Year IT Student | Full-Stack & AI Enthusiast
+Final Year IT Student
 
 💼 Career Objective
 
@@ -43,6 +43,7 @@ DocXplore - Intelligent document retrieval and summarization
 summarization of text + image PDFs using ChromaDB, PyMuPDF, Tesseract OCR, Sentence-Transformers. Built
 scalable backend pipelines for vector embedding, storage, and query retrieval.
 
+Multi-server Django–PostgreSQL web application on AWS using Terraform, Ansible, and Docker Swarm, implementing container orchestration, CI/CD pipelines (GitHub Actions/Jenkins), and automated testing with Selenium, demonstrating end-to-end cloud infrastructure management, automation, and solutioning skills.
 
 🧠 Currently Learning
 
